@@ -1,3 +1,14 @@
 td {
     text-align: center;
+    font-size: 20px;
+}
+
+#vysledek {
+    font-size: 50px;
+    text-align: right;
+    margin: 0%;
+}
+
+#kalkulacka {
+    text-align: right;
 }
